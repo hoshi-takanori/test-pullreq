@@ -4,7 +4,7 @@ public class Hello {
     }
 
     public void bye() {
-        System.out.println("Bye bye...");
+        System.out.println("再见");
     }
 
     public static void main(String[] args) {
