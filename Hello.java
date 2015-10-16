@@ -1,6 +1,6 @@
 public class Hello {
     public void hello() {
-        System.out.println("Hello, World!");
+        System.out.println("こんにちわ、せかい！");
     }
 
     public void bye() {
